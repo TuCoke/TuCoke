@@ -1,8 +1,6 @@
-![](https://visitor-badge.glitch.me/badge?page_id=TuCoke.readme)
+#### ![](https://visitor-badge.glitch.me/badge?page_id=TuCoke.readme)
 
-<!-- ![](http://antzuhl.cn:4000/get/@TuCoke.readme) -->
-
-![info](https://github-readme-stats.vercel.app/api?username=TuCoke&show_icons=true&count_private=true&hide=prs&theme=synthwave)
+> ![info](https://github-readme-stats.vercel.app/api?username=TuCoke&show_icons=true&count_private=true&hide=prs&theme=synthwave)
 
 <!-- 
 # linux卡片
